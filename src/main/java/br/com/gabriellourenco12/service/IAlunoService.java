@@ -15,7 +15,7 @@ public interface IAlunoService {
   Aluno create(AlunoForm form);
 
   /**
-   * Retorna um Aluno que está no banco de dados de acordo com seu Id.
+   * Retorna um Aluno no banco de dados de acordo com seu Id.
    * @param id - id do Aluno que será exibido.
    * @return - Aluno de acordo com o Id fornecido.
    */
